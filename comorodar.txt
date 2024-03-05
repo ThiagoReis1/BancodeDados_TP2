@@ -1,0 +1,4 @@
+cd scripts
+wsl
+make Preparar
+make Rodar
